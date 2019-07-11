@@ -57,6 +57,14 @@ const About = ({
           {number}
         </a>
       </div>
+      <div className="flex">
+        <div>
+          <h2 className="no">NO THANKS!</h2>
+        </div>
+        <div>
+          <h2 className="yes">Ill TAKE IT!</h2>
+        </div>
+      </div>
     </div>
   );
 };

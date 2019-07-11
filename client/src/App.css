@@ -394,11 +394,31 @@ table td {
 table th {
   background: var(--light-color);
 }
-
+.flex {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+}
+.no {
+  color: #91c1ff;
+  cursor: pointer;
+}
+.no:hover {
+  transition: 0.4s;
+  color: rgb(68, 68, 68);
+}
+.yes {
+  transition: 0.4s;
+  color: #91c1ff;
+  cursor: pointer;
+}
+.yes:hover {
+  transition: 0.4s;
+  color: rgb(68, 68, 68);
+}
 /* Navbar */
 .navbar {
   display: flex;
-
   justify-content: space-between;
   align-items: center;
   padding: 0.7rem 2rem;
@@ -413,14 +433,14 @@ table th {
 }
 
 .navbar a {
-  color: #fff;
-
+  color: white;
   padding: 0.45rem;
   margin: 0 0.25rem;
 }
 
 .navbar a:hover {
-  color: var(--light-color);
+  color: rgb(70, 71, 105);
+  transition: 0.4s;
 }
 
 .navbar .welcome span {

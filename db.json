@@ -1,0 +1,41 @@
+{
+  "job": {
+    "jobId": "5775d8e18a488e6c5bb08c13",
+    "title": "Construction and Releated Workers - General",
+    "company": {
+      "name": "C.D. Barnes and Associates",
+      "address": "123 Main Street, Tacoma, WA 98409",
+      "logo": "https://static.wixstatic.com/media/dc0d61_854a54df0f1049bcbb20e2f9a64236eb.png/v1/fill/w_112,h_112,al_c,usm_0.66_1.00_0.01/dc0d61_854a54df0f1049bcbb20e2f9a64236eb.png",
+      "reportTo": "Joe Blogs"
+    }
+  },
+  "wage": {
+    "wagePerHourInCents": "850"
+  },
+  "shifts": [
+    {
+      "startDate": "Mon, Sep 5th, 10pm ",
+      "endDate": "Tues, Sep 6th, 5am "
+    },
+    {
+      "startDate": "Tues, Sep 6th, 10pm ",
+      "endDate": "Wed, Sep 7th, 5am "
+    },
+    {
+      "startDate": "Wed, Sep 7th, 10pm ",
+      "endDate": "Thurs, Sep 8th, 5am "
+    },
+    {
+      "startDate": "Thurs, Sep 8th, 10pm ",
+      "endDate": "Fri, Sep 9th, 5am "
+    },
+    {
+      "startDate": "Fri, Sep 9th, 10pm ",
+      "endDate": "Sat, Sep 10th, 5am "
+    }
+  ],
+  "branchDetails": {
+    "branch": "Tacoma",
+    "branchPhoneNumber": "(253) 922-4240"
+  }
+}

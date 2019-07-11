@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f795440a.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.eada53be.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.eada53be.chunk.js.map",
-    "runtime~main.js": "/react-gh-pages/static/js/runtime~main.ac2d5040.js",
-    "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.ac2d5040.js.map",
-    "static/js/2.6a918c75.chunk.js": "/react-gh-pages/static/js/2.6a918c75.chunk.js",
-    "static/js/2.6a918c75.chunk.js.map": "/react-gh-pages/static/js/2.6a918c75.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.68b5bc66746a5619d0f90e353794786a.js": "/react-gh-pages/precache-manifest.68b5bc66746a5619d0f90e353794786a.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.f795440a.chunk.css.map": "/react-gh-pages/static/css/main.f795440a.chunk.css.map",
-    "static/media/me.png": "/react-gh-pages/static/media/me.f3d0a852.png"
+    "main.css": "/job-matcher/static/css/main.f795440a.chunk.css",
+    "main.js": "/job-matcher/static/js/main.eada53be.chunk.js",
+    "main.js.map": "/job-matcher/static/js/main.eada53be.chunk.js.map",
+    "runtime~main.js": "/job-matcher/static/js/runtime~main.e2f06a01.js",
+    "runtime~main.js.map": "/job-matcher/static/js/runtime~main.e2f06a01.js.map",
+    "static/js/2.6a918c75.chunk.js": "/job-matcher/static/js/2.6a918c75.chunk.js",
+    "static/js/2.6a918c75.chunk.js.map": "/job-matcher/static/js/2.6a918c75.chunk.js.map",
+    "index.html": "/job-matcher/index.html",
+    "precache-manifest.ce489e9fa5b345bcebadcd6f3d5ec937.js": "/job-matcher/precache-manifest.ce489e9fa5b345bcebadcd6f3d5ec937.js",
+    "service-worker.js": "/job-matcher/service-worker.js",
+    "static/css/main.f795440a.chunk.css.map": "/job-matcher/static/css/main.f795440a.chunk.css.map",
+    "static/media/me.png": "/job-matcher/static/media/me.f3d0a852.png"
   }
 }

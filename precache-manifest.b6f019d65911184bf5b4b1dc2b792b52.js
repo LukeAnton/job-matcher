@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0a1b6934c256ba7a9c0f92024f7caef",
+    "revision": "6410b1d7469786cf633217b2055f64e6",
     "url": "/job-matcher/index.html"
   },
   {

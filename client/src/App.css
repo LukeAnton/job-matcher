@@ -449,6 +449,11 @@ table th {
 
 /* Mobile Styles */
 @media (max-width: 700px) {
+  .h1 {
+    margin-top: 4px;
+    margin-left: 0;
+    font-size: 30px;
+  }
   body {
     text-align: center;
   }

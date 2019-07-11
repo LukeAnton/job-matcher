@@ -4,15 +4,15 @@ const Navbar = () => {
   return (
     <nav className="navbar bg-primary">
       <h1 className="title-nav">
-        <i class="fab fa-linode" />
+        <i className="fab fa-linode" />
         Job Matcher
       </h1>
       <ul>
         <li>
-          <a href="/">Home</a>
+          <a href="#">Home</a>
         </li>
         <li>
-          <a href="/about">Jobs</a>
+          <a href="#">Jobs</a>
         </li>
       </ul>
     </nav>

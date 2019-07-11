@@ -17,7 +17,7 @@ const About = ({
   return (
     <div>
       <div className="jobs">
-        <h1 class="h1">Jobs Available</h1>
+        <h1 className="h1">Jobs Available</h1>
       </div>
       <div className="space grid-2 my-2">
         <div>

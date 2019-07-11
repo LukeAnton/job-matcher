@@ -19,10 +19,18 @@ const App = () => {
 
   useEffect(() => {
     const getJob = async username => {
-      const res = await axios.get(`http://localhost:3000/job`);
-      const resWage = await axios.get(`http://localhost:3000/wage`);
-      const resShifts = await axios.get(`http://localhost:3000/shifts`);
-      const resBranch = await axios.get(`http://localhost:3000/branchDetails`);
+      const res = await axios.get(
+        "https://my-json-server.typicode.com/LukeAnton/job-matcher/job"
+      );
+      const resWage = await axios.get(
+        "https://my-json-server.typicode.com/LukeAnton/job-matcher/wage"
+      );
+      const resShifts = await axios.get(
+        "https://my-json-server.typicode.com/LukeAnton/job-matcher/shifts"
+      );
+      const resBranch = await axios.get(
+        "https://my-json-server.typicode.com/LukeAnton/job-matcher/branchDetails"
+      );
       setJob(res.data.title);
       setLogo(res.data.company.logo);
       setCompanyName(res.data.company.name);
